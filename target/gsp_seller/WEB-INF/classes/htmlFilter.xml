@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<htmlFilter>
+	<!--
+	
+	示例1:排除一个接口
+	<interface>
+		<uri>/shop/course/addComment.do</uri> 接口名
+	</interface>
+	
+	示例2:排除某接口的多个字段
+	<interface>
+		<uri>/shop/course/addComment.do</uri>
+		<fields>
+			<field>answerInfo1</field>  字段
+			<field>answerInfo2</field>
+		</fields>
+	</interface>
+	
+	-->
+
+
+</htmlFilter>
